@@ -5,7 +5,7 @@
 	"publisher": "iryu54",
 	"repository": "https://github.com/clabroche/akkouq",
 	"description": "",
-	"version": "0.0.6",
+	"version": "0.0.7",
 	"icon": "icon.png",
 	"engines": {
 		"vscode": "^1.36.0"
