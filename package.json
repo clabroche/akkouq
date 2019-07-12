@@ -3,6 +3,7 @@
 	"displayName": "akkouq",
 	"author": "iryu54",
 	"publisher": "iryu54",
+	"repository": "https://github.com/clabroche/akkouq",
 	"description": "",
 	"version": "0.0.5",
 	"engines": {
